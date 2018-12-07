@@ -14,6 +14,8 @@ import java.util.Date;
 import java.util.Optional;
 import java.util.concurrent.atomic.AtomicBoolean;
 
+// https://code.makery.ch/blog/javafx-dialogs-official/
+
 public class Controller {
 @FXML
 Label dateLabel;
